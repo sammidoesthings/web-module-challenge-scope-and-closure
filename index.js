@@ -66,6 +66,8 @@ function inning(/*Code Here*/){
     /*Code Here*/
 }
 
+//codegrade connection test
+
 
 /* ⚾️⚾️⚾️ Task 3: finalScore() ⚾️⚾️⚾️
 Use the finalScore function below to do the following:
